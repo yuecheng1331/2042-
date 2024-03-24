@@ -1,0 +1,1 @@
+ren C:\Windows\System32\nvapi641.dll nvapi64.dll
